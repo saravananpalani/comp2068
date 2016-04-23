@@ -1,0 +1,18 @@
+{
+  "name": "comp2068-lab3",
+  "description": "",
+  "main": "server.js",
+  "authors": [
+    "saravananpalani <saravana171292@gmail.com>"
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
